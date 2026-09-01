@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chaksunnah.github.io/sitemap.xml
